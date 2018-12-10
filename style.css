@@ -8,13 +8,14 @@ header {
         rgba(255, 0, 0, 0.45)
         ),
         url(https://images.unsplash.com/photo-1544367318-fb6a72b90605?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80);
-    height: 800;
+    height: 100%;
     width: 100%;
 }
 
 nav {
     display: flex;
     justify-content: flex-end;
+    background-color: rgba(0, 0, 0, 0.45)
 }
 .link {
     margin-right: 20px;
