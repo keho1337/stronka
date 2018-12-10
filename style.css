@@ -1,6 +1,7 @@
 body {
     margin:0;
 }
+
 header {
     background: 
     linear-gradient(
@@ -41,16 +42,61 @@ h1 {
 }
 main {
     background-color: white;
-    height: 400px;
+    height: 800px;
 }
+.mid{
+    padding: 1vw;
+    margin: 0 auto;
+    background: whitesmoke;
+    border-radius: 10px;
+    width: 1300px;
+    height: 800px;
+    -webkit-box-shadow: 0 0 8px rgba(255, 100, 100, 0.8);
+    -moz-box-shadow: 
+
+}
+.tablemain {
+    float: left;
+    width: 33.33%;
+    content: "";
+    display: table;
+    clear: both;
+    width: 100%;
+    text-align: center;
+
+    font-family: 'Cinzel', serif;
+    
+}
+.circular {
+	width: 275px;
+	height: 275px;
+    border-radius: 200px;
+	-webkit-border-radius: 200px;
+	-moz-border-radius: 200px;
+	background: url(https://www.wykop.pl/cdn/c3201142/comment_5NHTnCTzYKFlD6wZJCvktniv4yNnZF08,w400.jpg) no-repeat;
+	box-shadow: 0 0 8px rgba(255, 100, 100, 0.8);
+	-webkit-box-shadow: 0 0 8px rgba(255, 100, 100, 0.8);
+	-moz-box-shadow: 0 0 8px rgba(255, 100, 100, 0.8);
+    margin: 0 auto;
+
+}
+
 
 h2 {
     color: rgb(0, 0, 0);
     text-align: center;
-
+    font-family: 'Old Standard TT', serif;
 }
+    
+.masnoni {
+    text-align: center;
+    margin-top: 50px;
+    color: whitesmoke;
+    font-family: 'Poiret One', cursive;
+    font-size: 14px;
+}  
 
 footer {
-    background-color: blue;
+    background-color: rgba(255, 28, 28, 0.884);
     height: 100px;
 }
