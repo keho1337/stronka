@@ -90,7 +90,6 @@ h2 {
     
 .masnoni {
     text-align: center;
-    margin-top: 50px;
     color: whitesmoke;
     font-family: 'Poiret One', cursive;
     font-size: 14px;
@@ -98,5 +97,5 @@ h2 {
 
 footer {
     background-color: rgba(255, 28, 28, 0.884);
-    height: 100px;
+    padding: 20px;
 }
